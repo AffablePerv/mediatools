@@ -7,6 +7,7 @@ This repo is a collection of tools for interacting with media (video) and funscr
 ## Prerequisites
 
 Tested in a linux (ubuntu) environment.
+
 * [Python](https://www.python.org/)
 * [FFMpeg](https://ffmpeg.org/)
 * [OpenFunscripter](https://github.com/OpenFunscripter/OFS) is useful for creating funscripts
